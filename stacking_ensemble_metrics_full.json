@@ -1,0 +1,38 @@
+{
+  "Meta-MLP_Base-GB-AdaB-XGB-RF": {
+    "accuracy": 0.9543111874648262,
+    "precision": 0.9839401779516628,
+    "recall": 0.9236989425668671,
+    "f1_score": 0.9528683828584523
+  },
+  "Meta-GB_Base-MLP-AdaB-XGB-RF": {
+    "accuracy": 0.9531708183999289,
+    "precision": 0.9787826631200125,
+    "recall": 0.9264239803323361,
+    "f1_score": 0.9518838638992027
+  },
+  "Meta-GB_Base-KNN-LR-SGB": {
+    "accuracy": 0.9380053908355795,
+    "precision": 0.9733060205486029,
+    "recall": 0.90071384141465,
+    "f1_score": 0.9356039628330565
+  },
+  "Meta-AdaB_Base-KNN-LR-SGB": {
+    "accuracy": 0.9342436539202038,
+    "precision": 0.9687310164018288,
+    "recall": 0.8974556440863718,
+    "f1_score": 0.9317322180878871
+  },
+  "Meta-MLP_Base-KNN-LR-SGB": {
+    "accuracy": 0.9373685613577797,
+    "precision": 0.9645149112872782,
+    "recall": 0.9081484553182666,
+    "f1_score": 0.9354833788463592
+  },
+  "Meta-XGB_Base-KNN-LR-SGB": {
+    "accuracy": 0.938123870738426,
+    "precision": 0.9735553065471426,
+    "recall": 0.90071384141465,
+    "f1_score": 0.9357191211766878
+  }
+}
